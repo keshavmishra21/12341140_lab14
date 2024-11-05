@@ -1,1 +1,1 @@
-// Additional line in second repository
+// Additional line in the second local repository
